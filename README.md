@@ -36,7 +36,3 @@ git lfs install
 git lfs pull
 
 
-You can **copy this directly into a `README.md`** file in your repo.  
-
-Do you want me to also make a **super-short version** for a quick challenge submission?
-```
